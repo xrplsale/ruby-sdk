@@ -459,7 +459,7 @@ end
 
 ## Support
 
-- 📖 [Documentation](https://docs.xrpl.sale)
+- 📖 [Documentation](https://xrpl.sale/docs)
 - 💬 [Discord Community](https://discord.gg/xrpl-sale)
 - 🐛 [Issue Tracker](https://github.com/xrplsale/ruby-sdk/issues)
 - 📧 [Email Support](mailto:developers@xrpl.sale)
@@ -471,8 +471,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Links
 
 - [XRPL.Sale Platform](https://xrpl.sale)
-- [API Documentation](https://docs.xrpl.sale/api)
-- [Other SDKs](https://docs.xrpl.sale/developers/sdk-downloads)
+- [API Documentation](https://xrpl.sale/docs/api)
+- [Other SDKs](https://xrpl.sale/docs/developers/sdk-downloads)
 - [GitHub Organization](https://github.com/xrplsale)
 
 ---
